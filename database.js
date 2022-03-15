@@ -19,3 +19,33 @@ MongoDB
 mongoose
 
 */
+/*
+MyFunction() {
+    GetMessages((list) => {
+        console.log(list)
+    })
+}
+
+async MyFunction() {
+    let list = await GetMessages();
+    console.log(list)
+}
+*/
+
+/*
+try {
+
+}catch(error){
+
+}
+*/
+
+/*
+Testing with Jasmine
+
+- A test framework called Jasmine
+- Behavior-Driven JavaScript
+- 
+
+*/
+
